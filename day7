@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card UI</title>
+    <style>
+       
+        div{
+            width:150px;
+            height:150px;
+            border-radius:80%;
+        }
+        img{
+            width:280px;
+            height:200px;
+            border-radius: 80%;
+            border:3px solid black
+        }
+        h2{
+            color:darkslategray;
+            text-align: center;
+        }
+        p{
+            color:firebrick;
+            text-align: centre;
+        }
+        button{
+            background-color: blue;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+  <div>
+    <img src="C:\Users\Medha Trust\Downloads\WhatsApp Image 2026-05-28 at 9.59.27 PM.jpeg" alt="Profile Image">
+    <h2><i>Adhya</i></h2>
+    <p>Web Development Student</p>
+    <button>Connect</button>
+  </div>  
+</body>
+</html>
